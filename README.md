@@ -1,4 +1,6 @@
-[![ML](https://img.shields.io/badge/subject-machine%20learning-blue.svg)]() [![scikit-learn](https://img.shields.io/badge/subject-scikit--learn-blue.svg)]() [![tutorial](https://img.shields.io/badge/subject-tutorial-blue.svg)]()
+![ML](https://img.shields.io/badge/subject-machine%20learning-blue.svg) ![scikit-learn](https://img.shields.io/badge/subject-scikit--learn-blue.svg) ![tutorial](https://img.shields.io/badge/subject-tutorial-blue.svg)
+
+![Status: under development](https://img.shields.io/badge/status-under%20development-red.svg)
 
 # Scikit-learn Beginner's Template
 
@@ -18,12 +20,12 @@ The provided example makes use of the following Python libraries/frameworks:
 ## Machine Learning Concepts
 
 The following concepts are covered and implemented:
-- Data visualization:
+- Data visualization
     - Variable histograms
     - Scatter matrix
     - Correlation matrix
     - RadViz
-- Data preprocessing:
+- Data preprocessing
     - Standard scaling
 - Data split into training, validation and test samples
 - Model definition and training with decision trees / random forest
@@ -43,7 +45,7 @@ This project is far from perfect, not least because the author is relatively new
 
 If you have any suggestions or improvements, feel free to let me know or contribute in any way you like.
 
-## License [![license](https://img.shields.io/github/license/mashape/apistatus.svg)]()
+## License ![license](https://img.shields.io/github/license/mashape/apistatus.svg)
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
