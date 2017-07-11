@@ -29,8 +29,9 @@ The following concepts are covered and implemented:
     - Standard scaling
 - Data split into training, validation and test samples
 - Model definition and training with decision trees / random forest
+- Overfitting the data and how to prevent it
 - Feature importances
-- Model evaluation on the validation sample
+- Model evaluation using training and validation sample
     - MVA output distribution
     - Cut efficiencies plot / MVA cut optimization
     - ROC curve
@@ -38,6 +39,12 @@ The following concepts are covered and implemented:
     - Confusion matrix
     - Classification report
 - Model application to the test sample
+
+## Content overview and file description
+
+Notebooks:
+- [`example analysis - random forest.ipynb`](example%20analysis%20-%20random%20forest.ipynb): Example analysis of simulated physics data using a random forest classifier.
+- [`overtraining demo - random forest.ipynb`](overtraining%20demo%20-%20random%20forest.ipynb): Using simulated physics data and a random forest classifier to demonstrate the effects and consequences of overtraining.
 
 ## Contributing
 
