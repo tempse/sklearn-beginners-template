@@ -9,11 +9,11 @@ This project mainly addresses people who are new to machine learning, scikit-lea
 ## Prerequisites
 
 The provided example makes use of the following Python libraries/frameworks:
-- scikit-learn
-- numpy
-- pandas
-- matplotlib
-- seaborn
+- [scikit-learn](http://scikit-learn.org/)
+- [numpy](http://www.numpy.org/)
+- [pandas](http://pandas.pydata.org/)
+- [matplotlib](https://matplotlib.org/)
+- [seaborn](https://seaborn.pydata.org/)
 
 ## Machine Learning Concepts
 
